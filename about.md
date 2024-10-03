@@ -9,5 +9,11 @@ Throughout my doctoral studies, my focus has been on exploring the structure, dy
 
 Outside of network science, phisical based machine learning and neuroscience, I like learning anything new, enjoy travelling, photography and talking nonsense in English.
 
+Some words have inspired me. I hope they inspire you too:
+"Do I need .."
+
+"Definitely no. Only you're alive and have passion."
+"Don't be afraid you try you will learn something."
+
 <br>
 <br>
