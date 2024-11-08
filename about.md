@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <font size="+2"><strong>Xin-Ya Zhang (张昕亚)</strong></font><br>
-PhD Candidate, Tongji University
-
+PhD Candidate, Tongji University<br>
 Postdoctoral Fellow, Westlake University
 
 I am currently a PhD candidate in physics at Tongji University, specializing in <strong>complex systems</strong> for scientific discovery. My research focuses on exploring the structure, dynamics, and control theory in complex networks. I utilize a combination of physical methodologies and machine learning algorithms to unveil underlying mechanisms, particularly in brain. I hold a Bachelor's degree in Applied Physics from Tongji University, where I began my academic journey.
@@ -14,16 +13,16 @@ Throughout my academic career, I have focused on <strong>cognitive neuroscience<
 
 I will be a postdoctoral fellow at Westlake University, continue to explore the intersection of <strong>complex systems</strong> and <strong>AI</strong>. My goal is to push the boundaries of interdisciplinary research at the crossroads of physics, artificial intelligence, and complex systems.
 
-Outside of my academic work, I enjoy learning new things, traveling, photography, and talking nonsense in English.</p>
+Outside of my academic work, I enjoy learning new things, traveling, photography, and talking nonsense in English.
 
 Some words have inspired me. I hope they inspire you too:
 
 <blockquote>
-"Do I need .., to be perfect?"
+  <p>"Do I need .., to be perfect?"</p>
 
-"Definitely no. Only you're alive and have passion. That's enough."
+  <p>"Definitely no. Only you're alive and have passion. That's enough."</p>
 
-"Don't be afraid you try you will learn something."
+  <p>"Don't be afraid you try you will learn something."</p>
 </blockquote>
 <br>
 <br>
