@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<font size="+2"><strong>Xin-Ya Zhang (张昕亚)</strong></font><br>
+<strong>Xin-Ya Zhang (张昕亚)</strong><br>
 PhD Candidate, Tongji University<br>
 Postdoctoral Fellow, Westlake University
 
@@ -14,7 +14,7 @@ Throughout my academic career, I have focused on <strong>cognitive neuroscience<
 I will be a postdoctoral fellow at Westlake University, continue to explore the intersection of <strong>complex systems</strong> and <strong>AI</strong>. My goal is to push the boundaries of interdisciplinary research at the crossroads of physics, artificial intelligence, and complex systems.
 
 Outside of my academic work, I enjoy learning new things, traveling, photography, and talking nonsense in English.
-
+<br>
 Some words have inspired me. I hope they inspire you too:
 
 <blockquote>
