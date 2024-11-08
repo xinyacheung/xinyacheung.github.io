@@ -3,26 +3,27 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Xin-Ya Zhang (张昕亚)
-
-PhD Candidate, Tongji University
+<font size="+2"><strong>Xin-Ya Zhang (张昕亚)</strong></font><br>
+PhD Candidate, Tongji University<br>
 Postdoctoral Fellow, Westlake University
 
-<p>I am currently a PhD candidate in physics at Tongji University, specializing in <strong>complex systems</strong> for scientific discovery. My research focuses on exploring the structure, dynamics, and control theory in complex networks. I utilize a combination of physical methodologies and machine learning algorithms to unveil underlying mechanisms, particularly in brain. I hold a Bachelor's degree in Applied Physics from Tongji University, where I began my academic journey.
+<p>I am currently a PhD candidate in physics at Tongji University, specializing in <strong>complex systems</strong> for scientific discovery. My research focuses on exploring the structure, dynamics, and control theory in complex networks. I utilize a combination of physical methodologies and machine learning algorithms to unveil underlying mechanisms, particularly in brain. I hold a Bachelor's degree in Applied Physics from Tongji University, where I began my academic journey.</p>
+<br>
 
-Throughout my academic career, I have focused on <strong>cognitive neuroscience</strong>, trained at University College London. Specifically, attentional stretching of neural representations was found in monkeys across various task contexts. This stretching phenomenon occurs even within functionally bounded regions, contrasting with that observed in ANNs. Additionally, utilizing the same dataset, I have provided compelling evidence for brain-computer interfaces, especially in vision decoding and encoding. These projects are not only intriguing but also offer fresh insights into the workings of the brain and artificial intelligence, potentially advancing the development of brain-inspired AI models.
+<p>Throughout my academic career, I have focused on <strong>cognitive neuroscience</strong>, trained at University College London. Specifically, attentional stretching of neural representations was found in monkeys across various task contexts. This stretching phenomenon occurs even within functionally bounded regions, contrasting with that observed in ANNs. Additionally, utilizing the same dataset, I have provided compelling evidence for brain-computer interfaces, especially in vision decoding and encoding. These projects are not only intriguing but also offer fresh insights into the workings of the brain and artificial intelligence, potentially advancing the development of brain-inspired AI models.</p>
 
-I will be a postdoctoral fellow at Westlake University, continue to explore the intersection of <strong>complex systems</strong> and <strong>AI</strong>. My goal is to push the boundaries of interdisciplinary research at the crossroads of physics, artificial intelligence, and complex systems.
+<p>I will be a postdoctoral fellow at Westlake University, continue to explore the intersection of <strong>complex systems</strong> and <strong>AI</strong>. My goal is to push the boundaries of interdisciplinary research at the crossroads of physics, artificial intelligence, and complex systems.</p>
 
-Outside of my academic work, I enjoy learning new things, traveling, photography, and talking nonsense in English.
+<p>Outside of my academic work, I enjoy learning new things, traveling, photography, and talking nonsense in English.</p>
 
-Some words have inspired me. I hope they inspire you too:
+<p>Some words have inspired me. I hope they inspire you too:</p>
 
-"Do I need .., to be perfect?"
+<blockquote>
+<p>"Do I need .., to be perfect?"</p>
 
-"Definitely no. Only you're alive and have passion. That's enough."
+<p>"Definitely no. Only you're alive and have passion. That's enough."</p>
 
-"Don't be afraid you try you will learn something."
-
+<p>"Don't be afraid you try you will learn something."</p>
+</blockquote>
 <br>
 <br>
