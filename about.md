@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <strong>Xin-Ya Zhang (张昕亚)</strong><br>
-PhD Candidate, Tongji University<br>
+PhD, Tongji University<br>
 Postdoctoral Fellow, Westlake University
 
 I am currently a PhD candidate in physics at Tongji University, specializing in <strong>complex systems</strong> for scientific discovery. My research focuses on exploring the structure, dynamics, and control theory in complex networks. I utilize a combination of physical methodologies and machine learning algorithms to <u>unveil simple laws or mechanisms in complex systems</u> , particularly in brain. I hold a Bachelor's degree in Applied Physics from Tongji University, where I began my academic journey.
