@@ -524,10 +524,13 @@ header.navigation {
   /* Video styling */
   .video-background {
 	position: absolute;
-	top: 0;
-	left: 0;
-	width: 70%;
-	height: 5%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	max-width: 800px;  /* Set a maximum width */
+	height: auto;  /* Maintain aspect ratio */
+	max-height: 300px; /* Set a maximum height */
 	object-fit: cover;
 	z-index: -1; /* Places the video behind the navigation links */
   }
