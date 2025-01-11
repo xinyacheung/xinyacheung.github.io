@@ -514,12 +514,6 @@ pre code.hljs {
 }
 
 /* Ensure the header and video container fill the full width and height */
-header.navigation {
-	position: relative;
-	width: 100%;
-	height: 100vh; /* This makes the header take up the full viewport height */
-	overflow: hidden; /* Hide anything outside the bounds of the header */
-  }
   
   /* Video styling */
   .video-background {
@@ -539,27 +533,8 @@ header.navigation {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(247, 245, 245, 0.5); /* Black background with 50% opacity */
+	background: rgba(22, 22, 22, 0.5); /* Black background with 50% opacity */
 	z-index: 1; /* Ensures overlay is above the video but below the text */
   }
-  
-  /* Navigation styling */
-  .navigation-wrapper {
-	position: relative;
-	z-index: 2;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 20px;
-  }
-  
-  .nav-link {
-	display: inline-block;
-	margin: 0 10px;
-  }
-  
-  .nav-link a {
-	text-decoration: none;
-	color: white; /* You can adjust the color as needed */
-  }
+
   
