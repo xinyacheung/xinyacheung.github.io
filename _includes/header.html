@@ -1,15 +1,35 @@
 <header class="navigation" role="banner">
+  <!-- Background video -->
+  <div class="video-background">
+    <video autoplay loop muted>
+      <source src="inddex.mp4" type="video/mp4">
+      <!-- Add other formats if needed
+      <source src="path-to-your-video.webm" type="video/webm">
+      Your browser does not support the video tag. -->
+    </video>
+  </div>
+  
+  <!-- Navigation content -->
   <div class="navigation-wrapper">
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-      <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>Home</strong></a>
-      <li class="nav-link"><a href="https://xinyacheung.github.io/research"><strong>Research</strong></a>
-      <li class="nav-link"><a href="https://xinyacheung.github.io/blog"><strong>Blog</strong></a>
-      <li class="nav-link"><a href="https://xinyacheung.github.io/about"><strong>About Me</strong></a>
+        <li class="nav-link">
+          <a href="{{ site.baseurl }}/" class="logo" style="color: rgb(227, 53, 40);"><strong>Home</strong></a>
+        </li>
+        <li class="nav-link">
+          <a href="https://xinyacheung.github.io/research" style="color: rgb(23, 60, 175);"><strong>Research</strong></a>
+        </li>
+        <li class="nav-link">
+          <a href="https://xinyacheung.github.io/blog" style="color: rgb(255, 111, 0);"><strong>Blog</strong></a>
+        </li>
+        <li class="nav-link">
+          <a href="https://xinyacheung.github.io/about" style="color: rgb(25, 195, 247);"><strong>About Me</strong></a>
+        </li>
       </ul>
-    </nav>
+    </nav>      
   </div>
 </header>
+
